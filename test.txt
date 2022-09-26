@@ -1,1 +1,6 @@
-
+connection=wired
+dhcp=yes
+proxy=
+browser=firefox
+default_sound_card=0.0
+additional_components=uefi.zip
